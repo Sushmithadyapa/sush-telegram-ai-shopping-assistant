@@ -6,7 +6,9 @@ Sush is an n8n-powered Telegram assistant that helps users discover products on 
 
 ## Demo
 
-Watch the recorded walkthrough: [Sush-TelegramBot-demo.mp4](https://github.com/Sushmithadyapa/sush-telegram-ai-shopping-assistant/releases/download/v1.0.0/Sush-TelegramBot-demo.mp4)
+Watch the recorded walkthrough: [Sush-TelegramBot-demo.mp4](https://github.com/Sushmithadyapa/sush-telegram-ai-shopping-assistant/releases/download/v1.0.0/Sush-TelegramBot-demo.mp4) 
+<img width="1567" height="535" alt="image" src="https://github.com/user-attachments/assets/d0ef6302-3de2-4b96-97d8-6f8c15c341a1" />
+
 
 ## What it does
 
