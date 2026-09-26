@@ -1,0 +1,13 @@
+# Secrets and n8n credentials
+.env
+.env.*
+credentials.json
+*credentials*.json
+
+# Local media and execution artefacts
+screenshots/private/
+n8n-executions/
+
+# OS files
+.DS_Store
+Thumbs.db
